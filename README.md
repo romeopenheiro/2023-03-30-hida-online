@@ -1,6 +1,6 @@
-# The Carpentries Workshop Template
+# Online Software Carpentry (Shell, Git, R for Reproducible Scientific Analysis)
 
-[![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://github.com/carpentries/workshop-template/actions/workflows/website.yml)
+[![Website](https://github.com/carpentries/workshop-template/actions/workflows/website.yml/badge.svg)](https://romeopenheiro.github.io/2023-03-30-hida-online/)
 
 ## Getting and Giving Help
 
